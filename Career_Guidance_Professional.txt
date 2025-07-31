@@ -1,0 +1,48 @@
+
+Career Path: Software Engineer
+Required Skills: Programming (Python, Java, C++), Problem Solving, Data Structures, Algorithms
+Suggested Degrees: B.Tech in Computer Science, B.Sc. in IT
+Top Industries: IT Services, Product Development, Startups, Fintech
+Future Trends: AI integration, Cloud computing, DevOps practices
+
+Career Path: Data Scientist
+Required Skills: Python, R, SQL, Machine Learning, Statistics, Data Visualization
+Suggested Degrees: B.Sc. Statistics, B.Tech Data Science, M.Sc. in AI
+Top Industries: Finance, Healthcare, E-commerce, Research Labs
+Future Trends: Deep Learning, Explainable AI, Generative AI
+
+Career Path: Digital Marketing Specialist
+Required Skills: SEO, SEM, Google Analytics, Content Strategy, Social Media Marketing
+Suggested Degrees: BBA in Marketing, MBA in Digital Marketing, Diploma in Advertising
+Top Industries: Retail, Fashion, Tech Startups, Agencies
+Future Trends: AI in AdTech, Influencer Marketing, Video SEO
+
+Career Path: UX/UI Designer
+Required Skills: Wireframing, Prototyping, Figma, Adobe XD, User Research
+Suggested Degrees: B.Des in Interaction Design, Certification in UI/UX
+Top Industries: Tech, Product Startups, Media, Education
+Future Trends: Voice UI, Motion Design, AR/VR experiences
+
+Career Path: Mechanical Engineer
+Required Skills: CAD, SolidWorks, Thermodynamics, Manufacturing Processes
+Suggested Degrees: B.E. in Mechanical Engineering
+Top Industries: Automotive, Aerospace, Robotics, Manufacturing
+Future Trends: 3D Printing, Smart Materials, Automation
+
+Career Path: Cloud Architect
+Required Skills: AWS, Azure, Cloud Security, Networking, DevOps
+Suggested Degrees: B.Tech in IT, Cloud Computing Certification
+Top Industries: IT, Finance, E-commerce, Startups
+Future Trends: Hybrid Cloud, Serverless Architecture, Edge Computing
+
+Career Path: Psychologist
+Required Skills: Empathy, Counseling, Data Interpretation, Research, Communication
+Suggested Degrees: B.A. in Psychology, M.A. in Clinical Psychology
+Top Industries: Healthcare, Education, NGOs, Corporates
+Future Trends: Teletherapy, AI-assisted therapy, Behavioral analytics
+
+Career Path: Chartered Accountant
+Required Skills: Accounting, Taxation, Law, Financial Analysis, Auditing
+Suggested Degrees: B.Com + CA Certification
+Top Industries: Finance, Consulting, Audit Firms, Startups
+Future Trends: Automation in Audits, Forensic Accounting, ESG Reporting
