@@ -1,12 +1,12 @@
-# 🧠 Agentic Career Counsellor - IBM watsonx.ai Project
+#  Agentic Career Counsellor - IBM watsonx.ai Project
 
-## 🔍 Problem Statement
+## Problem Statement
 Students often struggle to make informed career decisions...
 
-## 🚀 Solution
+## Solution
 This project implements a personalized AI career counselling agent...
 
-## 🛠️ Tools Used
+##  Tools Used
 - IBM watsonx.ai (Granite models)
 - Prompt Lab
 - IBM Cloud
