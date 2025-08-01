@@ -19,7 +19,7 @@ Traditional counseling methods:
 
 ## 🚀 Solution Overview
 
-The **Agentic Career Counsellor** is an AI agent developed using **IBM Watsonx.ai**'s Prompt Lab and Agent Lab. It is grounded on expert-provided knowledge and fine-tuned prompts to assess students' interests and academic strengths to recommend relevant, future-proof career paths.
+The **Agentic Career Counsellor** is an AI agent developed using **IBM Watsonx.ai**'s Prompt Lab. It is grounded on expert-provided knowledge and fine-tuned prompts to assess students' interests and academic strengths to recommend relevant, future-proof career paths.
 
 **Key Features:**
 - Conversational and interactive AI assistant
@@ -33,8 +33,8 @@ The **Agentic Career Counsellor** is an AI agent developed using **IBM Watsonx.a
 ## 🧰 Technologies Used
 
 | Technology           | Purpose                                  |
-|----------------------|-------------------------------------------|
-| IBM Watsonx.ai       | Foundation model inferencing & Agent Lab |
+|----------------------|------------------------------------------|
+| IBM Watsonx.ai       | Foundation model inferencing             |
 | Prompt Lab           | Prompt engineering & testing             |
 | IBM Granite / LLaMA  | Language model for intelligent response  |
 | Vector Store         | Grounding with `Career_Guidance_Professional.txt` |
