@@ -34,14 +34,16 @@ The **Agentic Career Counsellor** is an AI agent developed using **IBM Watsonx.a
 
 | Technology           | Purpose                                  |
 |----------------------|------------------------------------------|
-| IBM Watsonx.ai       | Foundation model inferencing             |
+| IBM Watsonx.ai       | Foundation model inferencing and agent lab |
 | Prompt Lab           | Prompt engineering & testing             |
 | IBM Granite / LLaMA  | Language model for intelligent response  |
 | Vector Store         | Grounding with `Career_Guidance_Professional.txt` |
 | GitHub               | Version control & deployment             |
 
----
 
+---
+API KEY FOR THE PROJECT - CehB0B-WNRO9rpulDPYJ2wE5rjNI6bydmNLj51Aopx8I
+---
 ## 🧠 How It Works
 
 1. **User Input Collection:** The AI prompts the student with 4 structured questions:
@@ -85,7 +87,7 @@ The **Agentic Career Counsellor** is an AI agent developed using **IBM Watsonx.a
 2. Go to the notebook interface
 4. Upload the document `Career_Guidance_Professional.txt`
 5. Run the notebook 
-
+6. api key - CehB0B-WNRO9rpulDPYJ2wE5rjNI6bydmNLj51Aopx8I
 ---
 
 ## 🧩 Future Scope
