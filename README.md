@@ -1,3 +1,6 @@
+---
+NOTE : THE PPT (PDF) WHICH IS UPLOADED IN THE GOOGLE FORMS IS MY OLD ONE THE PPT WHICH I ULOADED HERE IS UPDATED ONE AND THIS THE FINAL PROJECT. KINDLY GO THROUGH THIS PDF ATTACHED IN THE REPO 
+---
 # 🧠 Agentic Career Counsellor
 
 An intelligent AI-powered agent that helps students make informed, personalized, and future-ready career decisions by analyzing their interests, academic background, and real-time labor market trends. Built using IBM Watsonx.ai, this project fulfills the challenge outlined in Problem Statement No. 15 – Agentic Career Counseling Companion under the IBM Internship Program.
